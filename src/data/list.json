@@ -1,0 +1,60 @@
+[
+    {
+        "id":1,
+        "name":"John",
+        "complaintName":"Pipeline",
+        "status":"Completed",
+        "department":"Department 1",
+        "complaintDescription":"This is a complaint description"
+    },
+    {
+        "id":2,
+        "name":"John",
+        "complaintName":"Gas Leak",
+        "status":"Completed",
+        "department":"Department 2",
+        "complaintDescription":"This is a complaint description"
+    },
+    {
+        "id":3,
+        "name":"John",
+        "complaintName":"Dead Animals",
+        "status":"Completed",
+        "department":"Department 3",
+        "complaintDescription":"This is a complaint description"
+    },
+    {
+        "id":4,
+        "name":"John",
+        "complaintName":"---",
+        "status":"On Hold",
+        "department":"Department 4",
+        "complaintDescription":"This is a complaint description"
+    },
+    {
+        "id":5,
+        "name":"John",
+        "complaintName":"----",
+        "status":"Pending",
+        "department":"Department 5",
+        "complaintDescription":"This is a complaint description"
+    },
+    {
+        "id":6,
+        "name":"John",
+        "complaintName":"===",
+        "status":"On Hold",
+        "department":"Department 6",
+        "complaintDescription":"This is a complaint description"
+    },
+    {
+        "id":7,
+        "name":"John",
+        "complaintName":"Pipeline",
+        "status":"Closed",
+        "department":"Department 7",
+        "complaintDescription":"This is a complaint description"
+    }
+
+    
+]
